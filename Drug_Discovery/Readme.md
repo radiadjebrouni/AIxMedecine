@@ -77,10 +77,16 @@ model_class = joblib.load('random_forest_classification_model.pkl')
 * matplotlib
 * joblib
 * padelpy (for descriptor calculation)
+* chembl_webresource_client
+* rdkit
+* scipy
 
   **Ressources**
   
-  https://github.com/dataprofessor/bioactivity-prediction-app/tree/main/PaDEL-Descriptor
-  https://pubmed.ncbi.nlm.nih.gov/15126696/
-  https://www.collaborativedrug.com/cdd-blog/why-using-pic50-instead-of-ic50-will-change-your-life
-  https://peerj.com/articles/2322/
+  * https://github.com/dataprofessor/bioactivity-prediction-app/tree/main/PaDEL-Descriptor
+  * https://www.ebi.ac.uk/chembl/
+  * https://pubmed.ncbi.nlm.nih.gov/15126696/
+  * https://www.collaborativedrug.com/cdd-blog/why-using-pic50-instead-of-ic50-will-change-your-life
+  * https://peerj.com/articles/2322/
+  * https://www.youtube.com/@DataProfessor
+  * https://machinelearningmastery.com/nonparametric-statistical-significance-tests-in-python/
