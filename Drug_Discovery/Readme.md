@@ -1,7 +1,7 @@
 # Drug Discovery: Targeting Beta-secretase 1 for Alzheimer's disease
 
 ## Overview
-This project focuses on the use of Random Forest models for drug discovery, specifically targeting bioactivity classification and regression tasks related to Beta-secretase 1. The notebook encompasses various stages including data preprocessing, exploratory data analysis, descriptor calculation, and model building. The models are applied to predict bioactivity and pIC50 values of compounds using machine learning techniques.
+This project presents a comprehensive approach to analyzing and modeling bioactivity data to advance drug discovery. This study identifies and classifies compounds based on their bioactivity profiles, specifically targeting the protein **Beta-secretase 1 (BACE1)**. This protein plays a crucial role in the development of Alzheimer's disease, making it a significant target for drug discovery efforts aimed at developing therapies for neurodegenerative diseases.
 
 
 ![250px-Protein_BACE1_PDB_1fkn](https://github.com/user-attachments/assets/52ab5dbc-cbae-4f47-b436-b2c9f2fbb8f0)
